@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decasuumsyntaxi00antogoog_0266.png"; bbox 0 0 3540 5612; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 746 2512 958 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 746 2512 958 2546">
+     <span class='ocr_line' id='line_1_1' title="bbox 803 2512 808 2520; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 803 2512 808 2520; x_wconf 69' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 746 2524 958 2538; baseline 0.009 -4"><span class='ocrx_word' id='word_1_2' title='bbox 746 2524 958 2538; x_wconf 49' lang='lat' dir='ltr'><strong>a*</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 752 2539 756 2546; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 752 2539 756 2546; x_wconf 77' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 454 2647 1248 2708">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 454 2647 1248 2708">
+     <span class='ocr_line' id='line_1_4' title="bbox 454 2647 1248 2708; baseline 0 -14"><span class='ocrx_word' id='word_1_4' title='bbox 454 2650 714 2708; x_wconf 53' lang='lat' dir='ltr'><strong>Algam-mmmm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 725 2651 751 2697; x_wconf 81' lang='lat' dir='ltr'><strong>tle</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 762 2651 909 2697; x_wconf 76' lang='lat' dir='ltr'>l’Association</span> <span class='ocrx_word' id='word_1_7' title='bbox 918 2651 1022 2704; x_wconf 66' lang='grc' dir='ltr'><strong>οηπίὸιο,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1033 2649 1057 2696; x_wconf 86' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1068 2649 1168 2695; x_wconf 71' lang='lat' dir='ltr'>Foumu</span> <span class='ocrx_word' id='word_1_10' title='bbox 1177 2654 1200 2694; x_wconf 80' lang='lat' dir='ltr'><strong>ot</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1208 2647 1248 2694; x_wconf 74' lang='lat'><strong>0¹⁶.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1774 5604">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1774 5604">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1774 5604; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1774 5604; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
